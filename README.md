@@ -53,6 +53,7 @@
 ###
 
 <p align="left">- Layered Architecture</p>
+<p align ="left">- Clean Architecture </p>
 
 ###
 
