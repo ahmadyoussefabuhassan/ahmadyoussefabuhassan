@@ -1,124 +1,104 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=101&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
 
 <h1 align="center">Hi, I’m Ahmad Abo Hassan 👋</h1>
 
-###
+<p align="center">
+  <strong>Passionate Back-End Developer | ASP.NET Core Specialist</strong><br>
+  I focus on building scalable, high-quality applications using Domain-Driven Design (DDD) and Clean Architecture.
+</p>
 
-<p align="left">I am a passionate Back End developer focused on building high-quality applications using the latest technologies and best practices. I’m always eager to learn and enhance my skills in the programming world</p>
+### 🛠️ Technical Stack
 
-###
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🚀 Backend Development</strong><br>
+      - ASP.NET Core Web API<br>
+      - C# (Advanced OOP & SOLID)<br>
+      - <b>SignalR</b> (Real-time Communication)<br>
+      - <b>Redis</b> (Caching & Performance)<br>
+      - <b>Unit Testing</b> (XUnit/NUnit)
+    </td>
+    <td valign="top" width="50%">
+      <strong>🏗️ Architecture & Patterns</strong><br>
+      - <b>Clean Architecture</b> & Layered Architecture<br>
+      - <b>DDD (Domain Driven Design)</b><br>
+      - <b>CQRS & MediatR Pattern</b><br>
+      - Pipeline Behaviors (Logging, Validation, Performance)<br>
+      - Design Patterns (Repository, Unit of Work, etc.)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🗄️ Database & Security</strong><br>
+      - SQL Server (Advanced SQL)<br>
+      - Entity Framework Core (EF Core)<br>
+      - LINQ & ADO.NET<br>
+      - <b>Identity & JWT Authentication</b>
+    </td>
+    <td valign="top" width="50%">
+      <strong>🛠️ Tools & DevOps</strong><br>
+      - Git & GitHub<br>
+      - Docker<br>
+      - Azure Hosting<br>
+      - Logging & Monitoring
+    </td>
+  </tr>
+</table>
 
-<h2 align="left">🎯 Technical Skills</h2>
+### 🌟 Featured Projects
 
-###
+#### 🎓 [E-Learning System](https://github.com/ahmadyoussefabuhassan/E-Learning)
+*The most comprehensive project implementing advanced architectural patterns.*
+- **Tech:** ASP.NET Core, **Clean Architecture**, **CQRS with MediatR**.
+- **Features:** High decoupling, MediatR Pipeline behaviors for Validation and Logging, and complex business logic handling.
 
-<h3 align="left">🛠️ Programming Languages</h3>
+#### 📱 [Social Platform API](https://github.com/ahmadyoussefabuhassan/SocialPlatform)
+*A specialized API for social networking features.*
+- **Tech:** ASP.NET Core, EF Core, JWT, **SignalR**.
+- **Features:** Real-time notifications/updates, secure authentication, and optimized data relationships.
 
-###
+#### 🏥 [Clinic Management System](https://github.com/ahmadyoussefabuhassan/Clinic-System)
+*A robust desktop solution for healthcare management.*
+- **Tech:** C#, Windows Forms, ADO.NET, SQL Server.
+- **Features:** Comprehensive patient management, appointment scheduling, and reporting.
 
-<p align="left">- C++  <br>- C# (Advanced, OOP, design principles, design patterns, and unit testing)</p>
-
-###
-
-<h3 align="left">📊 Data Structures & Algorithms</h3>
-
-###
-
-<p align="left">- Data Structures  <br>- Algorithms  <br>- Design Principles & Design Patterns</p>
-
-###
-
-<h3 align="left">🗄️ Databases</h3>
-
-###
-
-<p align="left">- SQL Server Database  <br>- Advanced SQL</p>
-
-###
-
-<h3 align="left">💻 Application Development</h3>
-
-###
-
-<p align="left">- Windows Application Development<br>- Ado.net  <br>- ASP.NET Web API  <br>- Entity Framework Core  <br>- LINQ  <br>- XML  <br>- JWT & Identity<br>- Logging  <br>- Redis  <br>- Single Responsibility Principle</p>
-
-###
-
-<h2 align="left">🏗️ Software Architecture</h2>
-
-###
-
-<p align="left">- Layered Architecture</p>
-<p align ="left">- Clean Architecture </p>
-
-###
-
-<h2 align="left">🛠️ Tools & Hosting</h2>
-
-###
-
-<p align="left">- Git  <br>- Azure</p>
-
-###
-
+### 💻 Tech Icons
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="40" alt="visualstudio logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="sql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-
-<h2 align="left">📬 Get in Touch</h2>
-
-###
-
-<p align="center">I’m always open to learning and taking on new challenges. Feel free to reach out for collaboration or inquiries!</p>
-
-###
-
+### 📬 Get in Touch
 <div align="center">
   <a href="https://www.facebook.com/ahmad.abo.hassan.284226" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="53" height="33" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="facebook logo"  />
   </a>
   <a href="https://t.me/AhmadYoussefAbohassan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="53" height="33" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/qr/3GZPZNT6YVTFA1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="53" height="33" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmadyoussefabuhassan.ahmadyoussefabuhassan&"  />
 </div>
 
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=101&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
